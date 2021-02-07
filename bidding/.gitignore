@@ -1,1 +1,5 @@
-bidding/settings.py
+.gitignore
+settings.py
+*.pyc
+**/__pycache__
+*.sqlite3
